@@ -326,7 +326,7 @@ body.active    {
 .featured-content   {
 
 
-    background: linear-gradient(to  bottom, rgba(0,0,0,0), #151515), url('../Imagens/sorano420.mov');
+    background: linear-gradient(to  bottom, rgba(0,0,0,0), #151515), url('../Imagens/sorano.mov');
     height: 50vh;
     padding: 50px;
     width: auto;  
@@ -345,7 +345,7 @@ body.active    {
 .featured-content.active   {
 
 
-    background: linear-gradient(to  bottom, rgba(0,0,0,0), #F9F6EE), url('../Imagens/sorano420.mov');
+    background: linear-gradient(to  bottom, rgba(0,0,0,0), #F9F6EE), url('../Imagens/sorano.mov');
     height: 50vh;
     padding: 50px;
     width: auto;  
@@ -364,7 +364,7 @@ body.active    {
 
 .featured-content-fiction   {
 
-    background: linear-gradient(to bottom, rgba(0,0,0,0) 50%, #151515), linear-gradient(to top, rgba(0,0,0,0) 50%, #151515), url('../Imagens/blackreach480p.mov');
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 50%, #151515), linear-gradient(to top, rgba(0,0,0,0) 50%, #151515), url('../Imagens/blackreach.mov');
     height: 50vh;
     padding: 50px;
     width: auto;  
@@ -383,7 +383,7 @@ body.active    {
 
 .featured-content-fiction.active   {
 
-    background: linear-gradient(to bottom, rgba(0,0,0,0) 50%, #fffefe), linear-gradient(to top, rgba(0,0,0,0) 50%, #fffefe), url('../Imagens/blackreach480p.mov');
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 50%, #fffefe), linear-gradient(to top, rgba(0,0,0,0) 50%, #fffefe), url('../Imagens/blackreach.mov');
     height: 50vh;
     padding: 50px;
     width: 100%;  
