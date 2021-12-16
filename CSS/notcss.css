@@ -269,21 +269,10 @@ body.active    {
 
 
 
-ul  {
-
-    list-style: none;
-
-
-}
-
-
 
 
 .leftmenuslots:hover   {
 
-    width: 5rem;
-    overflow: visible;
-    transition: 1s ease-in-out;
     cursor: pointer;
      
     
